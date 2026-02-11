@@ -52,10 +52,8 @@ While standard HTTP libraries (`requests`) often fail on modern dynamic websites
 * ChromeDriver (handled automatically by Selenium 4.x)
 
 **2. Install Dependencies**
-```bash
 pip install selenium
 
----
 
 ### ⚠️ Important: Web Scraping Limitations
 Please note that this project extracts data from a live, dynamic website (`Booking.com`). The pipeline is subject to the following real-world constraints:
@@ -69,4 +67,4 @@ Please note that this project extracts data from a live, dynamic website (`Booki
 * **"Element Not Found":** The site layout may have changed.
     * *Fix:* Open the browser `Inspect` tool and verify if `data-testid="property-card"` still exists.
 
----
+
