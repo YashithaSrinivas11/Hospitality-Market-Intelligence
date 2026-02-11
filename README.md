@@ -68,3 +68,12 @@ Please note that this project extracts data from a live, dynamic website (`Booki
     * *Fix:* Open the browser `Inspect` tool and verify if `data-testid="property-card"` still exists.
 
 
+**Some Related Screenshots**
+<img width="1920" height="1080" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/ae69fc4d-8845-4057-b866-dd5479321199" />
+<img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/3706d2aa-f58d-41ed-aba1-57cd7d987c80" />
+<img width="1920" height="1080" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/c43c7faa-221c-4a5a-b89b-6affaa869907" />
+<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/7d5f7428-b058-4bc6-a10a-99007fb9bb31" />
+<img width="1920" height="1080" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/b6e49561-196e-4703-a21e-b3ec003a65d0" />
+
+
+
